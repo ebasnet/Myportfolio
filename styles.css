@@ -542,9 +542,8 @@ span {
     }
 
     /* Contact Section */
-    .contact .heading{
-        color: var(--text-color);
-    }
+   
+
     .contact form .input-box input,
     .contact form textarea {
         width: 100%;
